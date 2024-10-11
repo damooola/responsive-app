@@ -77,7 +77,3 @@ Each scaffold (`MobileScaffold`, `TabletScaffold`, `DesktopScaffold`) provides a
 ## Contributing
 
 Feel free to fork this project and submit pull requests with improvements or bug fixes.
-
-## License
-
-MIT License (LICENSE)
